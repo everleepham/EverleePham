@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **everliepham2101@gmail.com**
 
-- ⚡ Fun fact: **You can call me Everlee**
+- ⚡ Fun fact: **You can call me Everlie or Everlee**
 
 ## 🌐 Socials:
 <p align="left">
