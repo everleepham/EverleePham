@@ -3,7 +3,7 @@
 
 # 👻 About Me:
 
-- 🌱 I’m currently learning: **Python, SQL, HTML, CSS, PHP**
+- 🌱 I’m currently learning: **Python, SQL, HTML, CSS, PHP, Java, Javascript**
 
 - 📫 How to reach me: **everliepham2101@gmail.com**
 
