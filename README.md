@@ -1,6 +1,6 @@
 
-# Salut, I'm Phuong Khanh PHAM 🤓
-### Or you can call me Everlie or Everlee
+## Salut, I'm Phuong Khanh PHAM 🤓
+> ### Or you can call me Everlie or Everlee
 
 I'm currently a second year's bachelors' student at EPITA, Paris, France
 
@@ -29,9 +29,9 @@ I'm currently a second year's bachelors' student at EPITA, Paris, France
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 
 #### ML/DL
@@ -55,11 +55,8 @@ I'm currently a second year's bachelors' student at EPITA, Paris, France
 #### My activites
 
 
-| <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=everleepham&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everleepham&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=everleepham&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true?cache_seconds=30" alt="Everlie's github stats" /></a> | <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everleepham&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
