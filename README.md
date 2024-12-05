@@ -1,5 +1,5 @@
 
-## Salut, I'm Phuong Khanh PHAM 🤓
+# Salut, I'm Phuong Khanh PHAM 🤓
 ### Or you can call me Everlie or Everlee
 
 I'm currently a second year's bachelors' student at EPITA, Paris, France
