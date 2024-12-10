@@ -54,7 +54,7 @@ I'm currently a second year's bachelors' student at EPITA, Paris, France
 #### My activites
 
 
-| <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=everleepham&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=30" alt="Everlie's github stats" /></a> | <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everleepham&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=everleepham&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=30" alt="Everlie's github stats" /></a> | <a href="https://github.com/everleepham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everleepham&layout=compact&theme=transparent&hide_border=true&cache_seconds=30" /></a> |
 | ------------- | ------------- |
 
 ---
