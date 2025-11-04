@@ -14,7 +14,7 @@ I'm currently a third year's bachelors' student at EPITA, Paris, France
 ## Socials:
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=purple">](https://bit.ly/ev-khanhpham)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=purple">](https://ev-khanhpham.netlify.app/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/phuong-khanh-pham-36166a2b5/)
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:everliepham2101@gmail.com)
 
