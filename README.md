@@ -1,6 +1,6 @@
 
 ## Salut, I'm Phuong Khanh PHAM 🤓
-> ### Or you can call me Everlie or Everlee
+> ### Or you can call me Everlie or Eve
 
 I'm currently a third year's bachelors' student at EPITA, Paris, France
 
