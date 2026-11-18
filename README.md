@@ -12,6 +12,9 @@ Focused on **Cloud • DevOps • Network Engineering • Distributed Systems**
 - Research / system design projects
 - Open-source collaboration
 
+### Open Source badge
+<div><a href="https://cloud.layer5.io/user/5330829d-56bc-402f-8ea0-5c62730345b6?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+
 ---
 
 ## Socials
