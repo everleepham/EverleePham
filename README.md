@@ -21,7 +21,7 @@ Focused on **Cloud • DevOps • Network Engineering • Distributed Systems**
 <p align="center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&color=purple">](https://ev-khanhpham.netlify.app/)
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phuong-khanh-pham-36166a2b5/)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phuong-khanh-pham/)
 [<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:everliepham2101@gmail.com)
 
 </p>
