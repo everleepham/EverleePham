@@ -1,7 +1,7 @@
 ## Salut, I'm Everlie PHAM 🤓
 > ### Or you can call me Eve
 
-I'm a final-year student at EPITA engineering school, Paris
+I'm a Master student in Network and Systems, and DevOps Engineer apprentice in Paris
 
 Focused on **Cloud • DevOps • Network Engineering • Distributed Systems**
 
